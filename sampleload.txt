@@ -8,7 +8,7 @@
       "email":"jsipprel@asu.edu",
       "phoneNumber":"3106330242",
       "wishlistname":"",
-      "wishlistdescription":"",
+      "wishlistdescription":""
     },
     [
       {
