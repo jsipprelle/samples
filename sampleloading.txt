@@ -1,0 +1,37 @@
+[
+  [
+    {
+      "firstName":"James",
+      "lastName":"Sipprelle",
+      "birthday":"6-13-1995",
+      "relationship":"self",
+      "email":"jsipprel@asu.edu",
+      "phoneNumber":"3106330242",
+      "wishlistname":"",
+      "wishlistdescription":""
+    },
+    [
+      {
+        "name":"candy",
+        "description":"It tastes good.",
+        "links":
+        {
+          "http://amazon.com/candy":"10.99"
+        }
+      }
+    ],
+    [
+      {
+        "title":"anniversary",
+        "date":"8-6",
+        "color":"red",
+        "notes":"",
+        "type":"",
+        "template":"",
+        "emailEnabled":"true",
+        "notificationEnabled":"false",
+        "numberOfAlerts":"3"
+      }
+    ]
+  ]
+]
